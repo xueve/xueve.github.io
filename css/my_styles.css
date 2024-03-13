@@ -1,5 +1,14 @@
+*{
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
 p.redred{
     color: indianred;
     font-size: 40px;
-    text-align: center;
+    text-align: left;
+    text-indent: 3em;
+}
+
+.blue{
+    color:royalblue;
 }
