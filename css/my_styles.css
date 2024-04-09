@@ -16,3 +16,17 @@ p.redred{
 body{
     font-family:sans-serif;
 }
+
+.expedu_icon{
+    color: aquamarine;
+}
+
+.expedu_icon:hover{
+    background-color: aquamarine;
+    color: wheat;
+}
+
+.bg-primary{
+    background-color: #8175a3;
+    background-image: url(../assets/img/001.jpg);
+}
